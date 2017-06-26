@@ -1,0 +1,64 @@
+
+
+
+/*begn BODY styling*/
+
+body{
+	background-image: url("../images/7.jpg");
+	background-size: 100%;
+}
+
+
+/*end body styling*/
+
+a{text-decoration:  : none;}
+
+
+/*begin index-html page*/
+
+#main-container{
+	background-size: 100%;
+	
+}
+
+#img-align{
+	text-align: center;
+	margin-top: 50px;
+}
+
+#home-buttons{
+	text-align: center;
+	padding: 20px;
+}
+
+#merchant-btn{
+	width: 100%;
+}
+.btn .btn-info .btn-lg .btn-block:a hover{
+	text-decoration: none;
+
+}
+
+/*end index-html page*/
+
+/*begin subscriber reg form*/
+
+#subscriber-form{
+	padding: 5px;
+	margin-top: 50px;
+	color: #ffffff;
+}
+
+#main-container1{padding: 20px;margin-top: 50px;}
+
+/*end subscriber reg form*/
+
+
+/*Header Nav styling*/
+.container{background: #4180C5;}
+.navbar-brand{color: #ffffff; font-weight: bolder;}
+
+
+/*text-transformation for empty fields*/
+#empty_firstname{text-transform: lowercase;}
+#empty_surname{text-transform: lowercase;}
