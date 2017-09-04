@@ -4,7 +4,7 @@
 /*begn BODY styling*/
 
 body{
-	background-image: url("../images/7.jpg");
+	background: #ffffff;
 	background-size: 100%;
 }
 
@@ -55,7 +55,7 @@ a{text-decoration:  : none;}
 
 
 /*Header Nav styling*/
-.container{background: #4180C5;}
+.container{background: #ff8c00;}
 .navbar-brand{color: #ffffff; font-weight: bolder;}
 
 
